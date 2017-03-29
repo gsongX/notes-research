@@ -1,0 +1,281 @@
+###现在删除Github上所有Fork来的，这里做个备份
+
+
+https://github.com/drduh/macOS-Security-and-Privacy-Guide		#A practical guide to securing macOS.
+https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md
+
+
+
+===================漏洞挖掘=================================
+https://github.com/dyjakan/osx-syscalls-list
+https://github.com/dyjakan
+====================================================
+
+https://github.com/MrMugiwara
+https://github.com/nccgroup/TriforceLinuxSyscallFuzzer
+https://github.com/nccgroup/TriforceAFL
+https://github.com/google/syzkaller
+
+https://github.com/MrMugiwara/CTF-Tools
+
+
+https://github.com/xairy/kernel-exploits
+https://github.com/xairy
+https://github.com/kernelslacker/trinity
+
+
+
+https://github.com/jfroche/hudson-plugins
+https://github.com/ntrippar/ARPwner
+
+https://github.com/sporst/SWFREtools
+https://github.com/bskari/sqlassie
+https://github.com/spinkham/skipfish
+https://github.com/arthurwayne/iOS-hook-OpenSSL
+https://github.com/Lavakumar/IronWASP
+https://github.com/kost/mikrotik-npk
+https://github.com/cloudsec/ajvm
+https://github.com/chokepoint/Beleth
+https://github.com/t0t3m/AFkit
+https://github.com/DiabloHorn/rdps2rdp
+https://github.com/DerekF35/FacebookFriendNetwork
+
+https://github.com/strobejb/sslhook
+https://github.com/3xp10it/bypass_waf
+https://github.com/jianaosiding/store
+https://github.com/antisnatchor/phishlulz
+
+https://github.com/Screetsec/TheFatRat		#Thefatrat a massive exploiting tool revealed >> An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most
+
+https://github.com/BlackHole1/WebRtcXSS		#利用XSS入侵内网
+https://github.com/BlackHole1/NodeJs_Backdoor		#NodeJs后门程序
+https://github.com/BlackHole1/Fecm		#前端XSS防火墙及后台报警系统
+https://github.com/BlackHole1/autoFindXssAndCsrf		#自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件
+
+
+awesome-iot-hacks
+https://github.com/LordNoteworthy/al-khaser		#Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
+https://github.com/cchio/deep-pwning		#Metasploit for machine learning.
+https://github.com/cyanzhong/Retriever		#Retrieving InfoPlist without Jailbreaking on iOS Devices
+https://github.com/ring04h/wymapreduce		#分布式架构, 用于可视化分析维基解密泄露的希拉里的邮件.
+https://github.com/xorond/sudo-snooper		#Python script that acts like the original sudo binary to fool users into entering their passwords
+https://github.com/orangetw/My-CTF-Web-Challenges		#Collection of CTF Web challenges I made
+https://github.com/ring04h/wyproxy 		#proxying and recording HTTP/HTTPs/Socks5 proxy flow, save to MYSQL database.
+https://github.com/0xbug/SQLiScanner		#Automatic SQL injection with Charles and sqlmap api
+https://github.com/ring04h/wyproxy2		#wyproxy: golang high performance version
+https://github.com/xplico/CapAnalysis		#CapAnalysis source code repository http://www.capanalysis.net
+https://github.com/DigitalSecurity/btlejuice		#BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework@
+https://github.com/ring04h/fpymysql		#A Friendly pymysql CURD Class
+https://github.com/turbo/openftp4		#A list of all FTP servers in IPv4 that allow anonymous logins.
+https://github.com/sqlmapproject/sqlmap 	#Automatic SQL injection and database takeover tool 
+https://github.com/wireghoul/dotdotpwn		#DotDotPwn - The Directory Traversal Fuzzer 
+https://github.com/leveryd/sqlmap_celery		#分布式的sqlmapapi
+https://github.com/sakshamsharma/HTTP-Over-Protocol		#HOP: A proxy server to enable arbitrary protocols behind an HTTP proxy
+https://github.com/sensepost/ruler 		#A tool to abuse Exchange services
+https://github.com/P1kachu/v0lt		#Security CTF Toolkit
+https://github.com/sowish/sqlmapapi_pi		#利用sqlmapapi进行批量检测sql注入
+https://github.com/zardus/ctf-tools 		#Some setup scripts for security research tools.
+https://github.com/FormidableLabs/webpack-dashboard		#A CLI dashboard for webpack dev server
+https://github.com/lachesis/scallion		#GPU-based Onion Hash generator
+https://github.com/juliocesarfort/public-pentesting-reports		#Curated list of public penetration test reports released by several consulting firms and academic security groups
+https://github.com/nabla-c0d3/sslyze		#Fast and powerful SSL/TLS server scanning library.
+https://github.com/fiht/ScanSql		#利用sqlmap和URL去重的爬虫写的一个刷rank的脚本
+https://github.com/danielmiessler/SecLists		#SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more
+https://github.com/Neo23x0/Loki		#Loki - Simple IOC and Incident Response Scanner
+https://github.com/radare/radare2		#unix-like reverse engineering framework and commandline tools
+https://github.com/1683942030/Android_memLoader_src		#安卓so内存加载劫持
+https://github.com/jobbole/awesome-python-cn		#Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
+https://github.com/Xyntax/POC-T		#渗透测试插件化并发框架
+https://github.com/infosec-au/altdns	# Subdomain discovery through alterations and permutations
+https://github.com/emcrisostomo/fswatch		#A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
+https://github.com/r0oth3x49/Xpath		#Xpath is a python based open source Sql injection tool that automates the process of detecting and exploiting error-based injection security flaws.
+https://github.com/knownsec/Pocsuite		#Pocsuite is an open-sourced remote vulnerability testing framework developed by the Knownsec Security Team.
+https://github.com/Hack-with-Github/Powerful-Plugins		#Powerful plugins and add-ons for hackers
+https://github.com/crown-prince/Sqlmap_Everywhere		#latest version-无需Python环境的Sqlmap及制作方法
+https://github.com/nanshihui/PocCollect		#a plenty of poc based on python
+https://github.com/erevus-cn/pocscan		#Will to be a niubility scan-framework
+https://github.com/cflq3/poc 		#poc from bugscan beebeeto
+https://github.com/hussein-aitlahcen/BlackHole		#C# RAT (Remote Administration Tool)
+https://github.com/DavexPro/FuzSub		#A Tool For Fuzzing Sub-domain. 
+https://github.com/knownsec/KCon		#KCon is a famous Hacker Con powered by Knownsec Team. 
+https://github.com/immunant/selfrando		#Software written in C and C++ is exposed to exploitation of memory corruption
+https://github.com/guyoung/GySurface		#Xdigger Framework is a Network Security Testing Assist Framwork
+https://github.com/lgrangeia/aesburp		#Burp Extension to manipulate AES encrypted payloads 
+https://github.com/CvvT/AppTroy		#An Online Analysis System for Packed Android Malware 
+https://github.com/iBotPeaches/ShakaApktool		#A tool for reverse engineering Android apk files
+https://github.com/dpnishant/raptor		#Web-based Source Code Vulnerability Scanner 
+https://github.com/getlantern/lantern		#Lantern，中文译为“灯笼”，据说是谷歌出资打造的一款帆樯软件
+https://github.com/Sndav/Auto-Exlpoit-Framwork		#Auto-Exp(Auto Exploit Framework,自动利用框架)s
+https://github.com/Trietptm-on-Security/dirbuster-ng-cli		#Dirbuster CLI 
+https://github.com/fireeye/flare-floss		#FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware
+https://github.com/vaioco/ARTDroid	
+https://github.com/BlackHole1/Fecm		#前端XSS防火墙及后台报警系统
+https://github.com/whxloveyrh/GPGPU-Sim		#GPGPU-Sim Learn 
+https://github.com/ring04h/rtcp2udp		# Reverse TCP Port to UDP Forwarding Tools 
+https://github.com/EnableSecurity/wafw00f		#WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website. 
+https://github.com/crown-prince/Python_PoC		#一款python编写的Web安全检测PoC&&EXP框架 
+https://github.com/joaomatosf/jexboss		#Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool 
+https://github.com/facebook/fishhook		#A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. 
+https://github.com/apenwarr/sshuttle		#Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling. 
+https://github.com/PowerShellEmpire/PowerTools		#PowerTools is a collection of PowerShell projects with a focus on offensive operations. 
+https://github.com/ytisf/theZoo		# A repository of LIVE malwares for your own joy and pleasure 
+https://github.com/laramies/theHarvester		#E-mail, subdomain and people names harvester 
+https://github.com/fuzzdb-project/fuzzdb 		#Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
+https://github.com/infosec-au/assetnote		#Push notifications for passive DNS data 
+https://github.com/yarrick/iodine		#Official git repo for iodine dns tunnel 
+https://github.com/ywolf/F-NAScan		#Scanning a network asset information script 
+https://github.com/dana-at-cp/backdoor-apk		#backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file
+https://github.com/Zke1ev3n/WiFiMaster		#使用wifi万能钥匙的接口查询WiFi密码
+https://github.com/zer0h/httpscan		#一个爬虫式的网段Web主机发现小工具
+https://github.com/greensea/obfstunnel		#Customizable network traffic tunneling tool 
+https://github.com/NorthBit/Metaphor		#Metaphor - Stagefright with ASLR bypass 
+https://github.com/haikuowuya/ShakaApktool		#ShakaApktool前身算的上是RsApktool,也可以说是一个全新的项目.两者在理念上都是增强Apktool工具
+https://github.com/0xd4d/de4dot		#.NET deobfuscator and unpacker. 
+https://github.com/henices/Tcp-DNS-proxy		#A TCP dns proxy which can get the RIGHT ip address 
+https://github.com/mazen160/Firefox-Security-Toolkit		# A tool that transforms Firefox browsers into a penetration testing suite 
+https://github.com/occrp/cronosparser		# Parser for CronosPro / CronosPlus database files. 
+https://github.com/redteamsecurity/AutoNessus		#This script communicates with the Nessus API in an attempt to help with automating scans. 
+https://github.com/code-scan/GourdScan		#被动式注入检测工具 程序使用python与php开发
+https://github.com/laginimaineb/MSM8974_exploit		#Full TrustZone exploit for MSM8974 
+https://github.com/yangbh/Hammer		# A web vulnerability scanner framework
+https://github.com/blackye/BkScanner		#BkScanner 分布式、插件化web漏洞扫描器 
+https://github.com/darkr4y/pentest-script		#scripts used in my pentest work. 
+https://github.com/issarapong/FTP-Miner		#An FTP search engine scraper 
+https://github.com/sebcat/openssl-hook		#Log data to/from SSL_write/SSL_read to disk using LD_PRELOAD hooks 
+https://github.com/iniqua/plecost		#Plecost - Wordpress finger printer Tool 
+https://github.com/xibijj/autoSqlmap		#autoSqlmap for sqlmapapi by proxy 
+https://github.com/ManyFace/ExtractDexFromOat		#This tool is used to extract dex files from oat file. 
+https://github.com/sssssanr/burp-sqlmapapi	
+https://github.com/code-scan/dzscan		#针对国内知名bbs建站系统discuz，所精心打造的一款漏洞扫描框架
+https://github.com/caizhenxing/AndroidRobot-1		#AndroidRobot是专门为移动无线端测试开发的一款自动化测试工具，
+https://github.com/vaibhavpandeyvpz/apkstudio		#Cross-platform Qt5 based IDE for reverse-engineering android applications.
+https://github.com/glmcdona/Process-Dump		#Windows tool for dumping malware PE files from memory back to disk for analysis.
+https://github.com/lijiejie/BBScan		#A tiny Batch weB vulnerability Scanner 
+https://github.com/USArmyResearchLab/Dshell		#Dshell is a network forensic analysis framework. 
+https://github.com/SpiderLabs/ModSecurity		#ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx
+https://github.com/Tribler/self-compile-Android		#Autonomous smartphone app. Capable of self-compilation, mutation, and viral spreading.
+https://github.com/vzex/dog-tunnel		#p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp) 
+https://github.com/ud2/advisories		#Security advisories 
+https://github.com/tanjiti/webshellSample		#webshell sample for WebShell Log Analysis 
+https://github.com/dineshshetty/Android-InsecureBankv2		#Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities 
+https://github.com/nidem/kerberoast		#Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what each tool does.
+https://github.com/google/firing-range		#Firing Range is a test bed for web application security scanners, providing synthetic, wide coverage for an array of vulnerabilities.
+https://github.com/braxtone/PhishReporter-Outlook-Add-In	#PhishReporter Outlook Add-In in an Outlook Add-In that allows users to report phishing e-mails to a specific e-mail address for further processing/investigation
+https://github.com/Arachni/Arachni 		#Web Application Security Scanner Frameworks
+https://github.com/MSAdministrator/PPRT 	# This module is used to report phishing URLs to their WHOIS/RDAP abuse contact information. s
+https://github.com/imlonghao/python-alipay-tool		#Python 支付宝免签约接口工具 
+https://github.com/trustedsec/tap 	#The TrustedSec Attack Platform is a reliable method for droppers on an infrastructure in order to ensure established connections to an organization. 
+https://github.com/andresriancho/w3af 		#w3af: web application attack and audit framework, the open source web vulnerability scanner
+https://github.com/jakubroztocil/httpie		#Modern command line HTTP client 
+https://github.com/mwrlabs/drozer		#The Leading Security Assessment Framework for Android.
+https://github.com/alibaba/dexposed		#dexposed enable 'god' mode for single android application. 
+https://github.com/dc3l1ne/Weblogic-Weakpassword-Scnner	
+https://github.com/giMini/PowerMemory		#Exploit the credentials present in files and memory
+https://github.com/J4r3tt/gerix-wifi-cracker-2		#GUI wireless 802.11 penetration tool 
+https://github.com/yahoo/gryffin		#Gryffin is a large scale web security scanning platform 
+https://github.com/truongkma/ctf-tools		#tổng hợp tool ctf
+https://github.com/1N3/Sn1per		#Automated Pentest Recon Scanner
+https://github.com/CipherShed/CipherShed		#Cross-platform on-the-fly encryption software.
+https://github.com/veracrypt/veracrypt		#Disk encryption with strong security based on TrueCrypt
+https://github.com/linkedin/qark 	#Tool to look for several security related Android application vulnerabilities 
+https://github.com/XcodeGhostSource/XcodeGhost 		#"XcodeGhost" Sources
+https://github.com/jaxley/python-fortify		#Read and write Fortify Project (FPR) files in Python 
+https://github.com/GDSSecurity/Windows-Exploit-Suggester		#This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. 
+https://github.com/panda-re/panda 		#Platform for Architecture-Neutral Dynamic Analysis 
+https://github.com/EmpireProject/Empire 	#Empire is a PowerShell and Python post-exploitation agent. 
+https://github.com/zyq8709/DexHunter		#General Automatic Unpacking Tool for Android Dex Files 
+https://github.com/skywind3000/kcp		#KCP - A Fast and Reliable ARQ Protocol 
+https://github.com/secmob/PoCForCVE-2015-1528		#I'll submit the poc after blackhat 
+https://github.com/ptoomey3/Keychain-Dumper		#A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken 
+https://github.com/allfro/BurpKit 		#Next-gen BurpSuite penetration testing tool 
+https://github.com/google/binnavi 		#BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. 
+https://github.com/robbyrussell/oh-my-zsh		
+https://github.com/laramies/metagoofil  #Metadata harvester 
+https://github.com/gojhonny/CredCrack		#A fast and stealthy credential harvester 
+https://github.com/rednaga/training 		#Training materials crafted and publicly provided by Red Naga members 
+https://github.com/PowerShellMafia/PowerSploit 		#PowerSploit - A PowerShell Post-Exploitation Framework 
+https://github.com/0xd4d/dnSpy 			#.NET assembly editor, decompiler, and debugger 
+https://github.com/fuzzing/MFFA 		#Media Fuzzing Framework for Android 
+https://github.com/chaitin/sqlchop 		#[DEPRECATED]A novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis. 
+https://github.com/retme7/mate7_TZ_exploit		#Huawei mate 7 TrustZone exploit 
+https://github.com/cea-sec/ivre		#Network recon framework.
+https://github.com/chipsec/chipsec  # Platform Security Assessment Framework 
+https://github.com/xl7dev/BurpSuite		#BurpSuite using the document and some extensions
+https://github.com/x64dbg/x64dbg		#An open-source x64/x32 debugger for windows
+https://github.com/RicterZ/websocket-injection		#WebSocket 中转注入工具 
+https://github.com/gentilkiwi/mimikatz		#A little tool to play with Windows security
+https://github.com/ssun125/Lanmitm 		#Android中间人攻击测试工具
+https://github.com/a0rtega/pafish  		#Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do. 
+https://github.com/robertdavidgraham/masscan  		#TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. 
+https://github.com/RicterZ/genpAss		#中国特色的弱口令生成器 
+https://github.com/xi4oyu/sDictionary 		#sDictionary 
+https://github.com/netxfly/passive_scan  	#基于http代理的web漏洞扫描器的实现 
+https://github.com/ynvb/DIE 		#Dynamic IDA Enrichment 
+https://github.com/tanjiti/perl_tools 		#perl小工具 
+https://github.com/zt2/sqli-hunter 		#A simple sqlmap api wrapper and proxy server 
+https://github.com/AlessandroZ/LaZagne		#Credentials recovery project 
+https://github.com/fuzzing/bifuz		#Broadcast Intent FUZzing Framework for Android 
+https://github.com/0xmabu/NME 		#Network Mapping and Enumeration Framework 
+https://github.com/mozilla/mig  		# Distributed & real time digital forensics at the speed of the cloud
+https://github.com/tennc/webshell 		#This is a webshell open source project 
+https://github.com/redcanari/quarkspwdump 		#Dump various types of Windows credentials without injecting in any process. 
+https://github.com/xti9er/rootkit_checker  		#--= Xt9 - Anti - Rootkit =-- beta v0.11 by xti9er 
+https://github.com/xmendez/wfuzz  		#Web application fuzzer 
+https://github.com/offensive-security/exploit-database  # The official Exploit Database repository 
+RATDecoders
+nogotofail
+Minos
+mailnesia.com
+CMSmap
+xsocks
+htpwdScan
+rdpy
+smbmap
+fastnetmon
+sandcat
+CTFd
+pyspider
+BeeCli
+pcc
+phpcodz
+GitHack
+trackmap
+Bull-Live-Encoder
+subDomainsBrute
+ssl-cert-scan
+https://github.com/MarioVilas/google		#
+thorns
+wechat-python-sdk
+weakfilescan
+wytorproxy
+brootkit
+gitrob
+C-Programming
+wydomain
+wyscan
+dirfuzz
+botnets
+azazel
+Nscan
+golismero
+baidupcs
+wyportmap
+dvcs-ripper
+fastsocket
+hyperfox
+lizkebab
+Altman
+ZShaolin
+soapui-pro-crack
+malwasm
+nmapdb
+WAFTest
+reGeorg
+pipal
+17moncn
+CompilerBackdoor
+sqli-labs
+adore-ng
+IIS_shortname_Scanner
+sqlmap4burp
+findmyhash
