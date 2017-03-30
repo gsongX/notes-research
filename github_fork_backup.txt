@@ -25,24 +25,25 @@ https://github.com/kernelslacker/trinity
 
 
 
-https://github.com/jfroche/hudson-plugins
+https://github.com/jfroche/hudson-plugins		#hudson plugins fork for more python related validations 
 https://github.com/ntrippar/ARPwner
 
-https://github.com/sporst/SWFREtools
-https://github.com/bskari/sqlassie
-https://github.com/spinkham/skipfish
-https://github.com/arthurwayne/iOS-hook-OpenSSL
-https://github.com/Lavakumar/IronWASP
-https://github.com/kost/mikrotik-npk
-https://github.com/cloudsec/ajvm
-https://github.com/chokepoint/Beleth
-https://github.com/t0t3m/AFkit
-https://github.com/DiabloHorn/rdps2rdp
-https://github.com/DerekF35/FacebookFriendNetwork
+https://github.com/sporst/SWFREtools		#SWF file reverse engineering tools 
+https://github.com/bskari/sqlassie		#database firewall 
+https://github.com/spinkham/skipfish		#Web application security scanner created by lcamtuf for google - Unofficial Mirror 
+https://github.com/arthurwayne/iOS-hook-OpenSSL		#Untested iOS Tweak to hook OpenSSL functions 
+https://github.com/stamparm/hontel		#Telnet Honeypot 
+https://github.com/Lavakumar/IronWASP		#Source code of IronWASP
+https://github.com/kost/mikrotik-npk		#Python tools for manipulating Mikrotik NPK format 
+https://github.com/cloudsec/ajvm		#A hobby jvm, just want to know how a java virtual machine works. 
+https://github.com/chokepoint/Beleth		#Multi-threaded SSH Password Auditor 
+https://github.com/t0t3m/AFkit		#Anti live forensic linux LKM rootkit 
+https://github.com/DiabloHorn/rdps2rdp		#Decrypt MITM SSL RDP and save to pcap 
+https://github.com/DerekF35/FacebookFriendNetwork		# Given a CSV list of Facebook profile usernames, will find all relationships between them. 
 
-https://github.com/strobejb/sslhook
-https://github.com/3xp10it/bypass_waf
-https://github.com/jianaosiding/store
+https://github.com/strobejb/sslhook		#SSLHOOK is a Win32 DLL that allows hooking of the OpenSSL functions SSL_read and SSL_write.
+https://github.com/3xp10it/bypass_waf		#waf自动爆破(绕过)工具 
+https://github.com/jianaosiding/store 		#个人收藏 
 https://github.com/antisnatchor/phishlulz
 
 https://github.com/Screetsec/TheFatRat		#Thefatrat a massive exploiting tool revealed >> An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most
@@ -222,60 +223,62 @@ https://github.com/redcanari/quarkspwdump 		#Dump various types of Windows crede
 https://github.com/xti9er/rootkit_checker  		#--= Xt9 - Anti - Rootkit =-- beta v0.11 by xti9er 
 https://github.com/xmendez/wfuzz  		#Web application fuzzer 
 https://github.com/offensive-security/exploit-database  # The official Exploit Database repository 
-RATDecoders
-nogotofail
-Minos
-mailnesia.com
-CMSmap
-xsocks
-htpwdScan
-rdpy
-smbmap
-fastnetmon
-sandcat
-CTFd
-pyspider
-BeeCli
-pcc
-phpcodz
-GitHack
-trackmap
-Bull-Live-Encoder
-subDomainsBrute
-ssl-cert-scan
-https://github.com/MarioVilas/google		#
-thorns
+https://github.com/kevthehermit/RATDecoders		# Python Decoders for Common Remote Access Trojans 
+https://github.com/google/nogotofail		#An on-path blackbox network traffic security testing tool 
+https://github.com/phith0n/Minos		# 一个基于Tornado/mongodb/redis的社区系统。
+https://github.com/Gilwyad/mailnesia.com 		#Anonymous Email in Seconds 
+https://github.com/Dionach/CMSmap 		#
+https://github.com/5loyd/xsocks			#Reliable , light-weight reverse socks5 server for windows&linux. 
+https://github.com/lijiejie/htpwdScan 		#A python HTTP weak pass scanner 
+https://github.com/citronneur/rdpy  	#Remote Desktop Protocol in Twisted Python 
+https://github.com/ShawnDEvans/smbmap 		#SMBMap is a handy SMB enumeration tool 
+https://github.com/pavel-odintsov/fastnetmon  			FastNetMon - very fast DDoS analyzer with sflow/netflow/mirror support#
+https://github.com/felipedaragon/sandcat 		#An open-source, pentest and developer-oriented web browser, using the power of Lua 
+https://github.com/CTFd/CTFd  		#CTFs as you need them 
+https://code.google.com/p/unix-privesc-check 		
+https://code.google.com/p/hash-identifier 		
+https://github.com/binux/pyspider 		#A Powerful Spider(Web Crawler) System in Python. 
+https://github.com/RickGray/BeeCli 		#Graduation Project. 
+https://github.com/sektioneins/pcc  		#PHP Secure Configuration Checker 
+https://github.com/80vul/phpcodz 		#Php Codz Hacking 
+https://github.com/lijiejie/GitHack		# A `.git` folder disclosure exploit 
+https://github.com/vecna/trackmap  		# Scripts needed to support Trackography project 
+https://github.com/wenjiegit/Bull-Live-Encoder 		#Bull Live Encoder is a tool for pushing rtmp to server,
+https://github.com/lijiejie/subDomainsBrute  		#A simple and fast sub domain brute tool for pentesters 
+https://github.com/typcn/ssl-cert-scan  		#Get website's source ip by ssl certificate 
+https://github.com/MarioVilas/google		#python google搜索
+https://github.com/ring04h/thorns 		#thorns_project 分布式异步队列系统 
 wechat-python-sdk
-weakfilescan
-wytorproxy
-brootkit
-gitrob
-C-Programming
-wydomain
-wyscan
-dirfuzz
-botnets
-azazel
-Nscan
-golismero
-baidupcs
-wyportmap
-dvcs-ripper
-fastsocket
-hyperfox
-lizkebab
-Altman
-ZShaolin
-soapui-pro-crack
-malwasm
-nmapdb
-WAFTest
-reGeorg
-pipal
-17moncn
-CompilerBackdoor
-sqli-labs
-adore-ng
-IIS_shortname_Scanner
-sqlmap4burp
-findmyhash
+https://github.com/ring04h/weakfilescan 		# 动态多线程敏感信息泄露检测工具 
+https://github.com/ring04h/wytorproxy		#wyscan tor proxy lib & help doc 
+https://github.com/cloudsec/brootkit		#Lightweight rootkit implemented by bash shell scripts v0.10 
+https://github.com/michenriksen/gitrob		#Reconnaissance tool for GitHub organizations 
+https://github.com/JING-TIME/C-Programming 		#C语言上机作业-2014-郑重 
+https://github.com/ring04h/wydomain		#to discover subdomains of your target domain 
+https://github.com/ring04h/wyscan 		#WooYun Network Scanner
+https://github.com/ring04h/dirfuzz 		#多线程网站目录穷举扫描 
+https://github.com/GeeksXtreme/botnets		#Database of malware (botnets, mostly), catched on telnet honeypot, including standard analysis outputs. 
+https://github.com/chokepoint/azazel		#Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit. It is more robust and has additional features, and focuses heavily around anti-debugging and anti-detection. 
+https://github.com/OffensivePython/Nscan 		#Nscan: Fast internet-wide scanner 
+https://github.com/golismero/golismero		#GoLismero - The Web Knife 
+https://github.com/GangZhuo/BaiduPCS 		#百度网盘命令行工具(C语言)。直接分析网盘网站，无需创建百度应用，全目录可访问。
+https://github.com/ring04h/wyportmap		#目标端口扫描+系统服务指纹识别 
+https://github.com/kost/dvcs-ripper		#Rip web accessible (distributed) version control systems:
+https://github.com/fastos/fastsocket		#Fastsocket is a highly scalable socket and its underlying networking implementation of Linux kernel. 
+https://github.com/malfunkt/hyperfox		#HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
+https://github.com/gh0std4ncer/lizkebab		#Lizard Squad rekt 
+https://github.com/keepwn/Altman 		#the cross platform webshell tool in .NET
+https://github.com/dyne/ZShaolin		#Interactive and scriptable console terminal on Android
+https://github.com/gyk001/soapui-pro-crack 		# SoapUI pro 破解 你懂的 
+https://github.com/donfucius/malwasm 		
+https://github.com/argp/nmapdb 		#Parse nmap's XML output files and insert them into an SQLite database
+https://github.com/tanjiti/WAFTest		#WAF测试工具
+https://github.com/sensepost/reGeorg 		#The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn. 
+https://github.com/digininja/pipal 		# Pipal, THE password analyser
+https://github.com/ilsanbao/17moncn 		#IP地址归属地查询多语言版
+https://github.com/bojieli/CompilerBackdoor 		#Course project to insert a backdoor into an open source compiler
+https://github.com/Audi-1/sqli-labs 		#SQLI labs to test error based, Blind boolean based, Time based. 
+https://github.com/trimpsyw/adore-ng 		#linux rootkit adapted for 2.6 and 3.x 
+https://github.com/lijiejie/IIS_shortname_Scanner 		#an IIS shortname Scanner 
+https://github.com/difcareer/sqlmap4burp 		#sqlmap embed in burpsuite 
+https://github.com/Talanor/findmyhash 		#Hash cracker 
