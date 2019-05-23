@@ -1,4 +1,5 @@
 ###现在删除Github上所有Fork来的，这里做个备份
+========================================
 
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide		#A practical guide to securing macOS.
@@ -6,27 +7,141 @@ https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.m
 
 
 
+https://github.com/Z3Prover/z3 		#The Z3 Theorem Prover
+	https://wiki.mma.club.uec.ac.jp/CTF/Toolkit/z3py
+	https://doar-e.github.io/presentations/securityday2015/SecDay-Lille-2015-Axel-0vercl0k-Souchet.html#/1
+	https://github.com/0vercl0k/z3-playground/
+	https://anee.me/solving-a-simple-crackme-using-z3-68c55af7f7b1
+	https://rolandsako.wordpress.com/2016/02/17/playing-with-z3-hacking-the-serial-check/
+	https://blog.lse.epita.fr/articles/24-using-sat-and-smt-to-defeat-simple-hashing-algorit.html
+	https://0xec.blogspot.jp/2016/04/reversing-petya-ransomware-with.html
+	https://github.com/thomasjball/PyExZ3
+	https://yurichev.com/writings/SAT_SMT_draft-EN.pdf
+	http://doar-e.github.io/blog/2013/09/16/breaking-kryptonites-obfuscation-with-symbolic-execution/
+
+
+https://github.com/milostosic/MTuner		#MTuner is a C/C++ memory profiler and memory leak finder for Windows, PS4, PS3, etc.
+https://github.com/asamy/ksm			#A fast, hackable and simple x64 VT-x hypervisor for Windows and Linux. Builtin userspace sandbox and introspection engine. 
+https://github.com/ionescu007/SimpleVisor		#SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least amount of assembly code (10 lines), and having the smallest amount of VMX-related code to support dynamic hyperjacking and unhyperjacking (that is, virtualizing the host state from within the host). It works on Windows and UEFI.
+https://github.com/tandasat/HyperPlatform		#Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows.
+https://github.com/unicorn-engine/unicorn 		#Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86) http://www.unicorn-engine.org
+
+https://github.com/ntddk/Abyss-Watcher		#Abyss Watcher - Malware Downloader
+https://github.com/angr/angr 		#The next-generation binary analysis platform from UC Santa Barbara's Seclab!
+https://github.com/shellphish/driller 		#Driller: augmenting AFL with symbolic execution!
+
+
 ===================漏洞挖掘=================================
+
 https://github.com/dyjakan/osx-syscalls-list
 https://github.com/dyjakan
-====================================================
+
+===========================================================
+
+===================Fuzzer=================================
 
 https://github.com/MrMugiwara
 https://github.com/nccgroup/TriforceLinuxSyscallFuzzer
 https://github.com/nccgroup/TriforceAFL
 https://github.com/google/syzkaller
 
+===========================================================
+
 https://github.com/MrMugiwara/CTF-Tools
 
+
+https://github.com/M4sc3r4n0/avoidz		#Avoidz tool to bypass most A.V softwares
+https://github.com/tuboshu/foxmaildump		#dump foxmail password 提取foxmail中存储的邮箱密码
+https://github.com/wekillpeople/browser-dumpwd		#Dump browser passwords(chrome, firefox) with sqlite3 lib.
+https://github.com/luisfmcalado/chrome-pwd 		#lists chrome browser passwords
+
+
+https://github.com/nanotube/pykeylogger		#Python keylogger for Windows and linux/Xlib http://pykeylogger.sourceforge.net/
+https://github.com/ferrery1/keylogger 		#C++ Keylogger for windows 7. Works with DLL injection on explorer.exe
+https://github.com/GiacomoLaw/Keylogger 	#A simple keylogger for Windows, Linux and Mac by Giacomo Lawrance https://simple-keylogger.github.io/
+https://github.com/Totktonada/keylogger 		#Educational winapi keylogger
+https://github.com/QuokkaLight/rkduck		#Linux v4.x.x Rootkit
+https://github.com/jarun/keysniffer 		#Linux kernel mode debugfs keylogger
+
+https://github.com/haris989/Chrome-Passwords-to-Google-Form  #When you request Google Chrome to save your password on a given website, it stores it in a "Login Data" file (sqlite database file). In order to securely store the password, the password is encrypted using user's window's credentials. This program decrypts the passwords in user's machine and then copys them to the same directory in which program… 
+
+https://github.com/gaearrow/TinyArrow 	#all kinds of tiny tools内网渗透工具
+
+
+https://github.com/tennc/webshell/		#This is a webshell open source project http://tennc.github.io
+https://github.com/brandonlw/Psychson	#Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB)
+https://github.com/fireeye/flare-floss		#FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
+https://github.com/shellphish		#CTF tools
+https://github.com/wgliang/logcool		#A high performance and near real time log collector.
+https://github.com/orangetw/My-CTF-Web-Challenges		#Collection of CTF Web challenges I made
+https://github.com/shadowsocks/ChinaDNS		#Protect yourself against DNS poisoning in China.
+https://github.com/cyfdecyf/crown-prince		#HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
+https://github.com/HackerFantastic/publicly		#A collection of all my publicly released material.
+https://github.com/ChrisFernandez/PenTools		#tools I wrote for my own pen testing
+https://github.com/fireeye/iocs 	#FireEye Publicly Shared Indicators of Compromise (IOCs)
+
+https://github.com/Audi-1/sqli-labs		#SQLI labs to test error based, Blind boolean based, Time based.
+https://github.com/bradfrost/patternlab 		#Make a pattern library using atomic design.
+https://github.com/korczis/libnids		#libnids:网络入侵检测开发包
+https://github.com/jmcunningham/AngularJS-Learning		#提供关于AngularJS的视频、入门、使用与论坛等中文互联网内容
+https://github.com/koto/squid-imposter		#Phishing attack w/HTML5 offline cache framework based on Squid proxy
+https://github.com/hatRiot/zarp 		#Network Attack Tool
+https://github.com/g0tmi1k/OS-Scripts		#Personal Collection of Operating Systems Scripts kali/backtrack
+https://github.com/zigoo0/webpwn3r		#WebPwn3r - Web Applications Security Scanner.
+https://github.com/atarantini/wpbf		#Remotely test password strength of WordPress bloging software
+https://github.com/MITRECND/chopshop		#Protocol Analysis/Decoder Framework 
+https://github.com/Smaash/quasibot		#complex webshell manager, quasi-http botnet.
+https://github.com/hubert3/iSniff-GPS		#Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
+https://github.com/TheRook/subbrute/		#A DNS meta-query spider that enumerates DNS records, and subdomains.
+https://github.com/fozavci/viproy-voipkit		#VIPROY - VoIP Pen-Test Kit for Metasploit Framework
+https://github.com/mspreitz/ADEL 		#ADEL · Android数据库导出工具
+https://github.com/aol/moloch		#aol/moloch · 捕获IPv4数据包工具
+https://github.com/savon-noir/python-libnmap 		#libnmap is a python library to run nmap scans
+https://github.com/bonsaiviking/NfSpy		#ID-spoofing NFS client
+https://github.com/wofeiwo/webshell-find-tools		#分析web访问日志以及web目录文件属性，用于根据查找可疑后门文件的相关脚本
+https://github.com/presidentbeef/brakeman		#A static analysis security vulnerability scanner for Ruby on Rails applications
+https://github.com/lightos/Panoptic		#Panoptic ·  LFI漏洞助手
+https://github.com/longld/peda		#PEDA - EXP开发辅助工具
+https://github.com/Veil-Framework/Veil		#Veil · 免杀payload生成工具
+https://github.com/leebaird/discover 	#For use with Kali Linux. Custom bash scripts used to automate various pentesting tasks.
+
+
+https://github.com/illera88/Ponce/		#IDA 2016 plugin contest winner! Symbolic Execution just one-click away!
+https://github.com/devttys0/ida 		#Collection of IDA Python plugins/scripts/modules.
+
+
+https://github.com/bnagy/crashwalk		#Bucket and triage on-disk crashes. OSX and Linux
+https://github.com/bnagy/osx-afl-llvm		#Barely working LLVM mode for AFL on OSX 
+https://github.com/0vercl0k/stuffz/
+https://github.com/google/oss-fuzz		#OSS-Fuzz - continuous fuzzing of open source software
+
+
+https://github.com/m4ll0k/Infoga		#Email Information Gathering
+
+https://github.com/Hack-with-Github/Awesome-Hacking		#A collection of various awesome lists for hackers, pentesters and security researchers 
+https://github.com/misterch0c/malSploitBase		#Malware exploits 
 
 https://github.com/xairy/kernel-exploits
 https://github.com/xairy
 https://github.com/kernelslacker/trinity
 
+https://github.com/srcshelton/vapour		#Hook libc syscalls on Mac OS X 
+https://github.com/warfish/sysent_hook		#Mac OS X syscall hook kext 
 
+https://github.com/gaearrow/ShodanAtk		#Shodan Search Engine using 
+https://github.com/sensepost/kwetza			#Python script to inject existing Android applications with a Meterpreter payload
+
+
+https://github.com/jlund/streisand			#Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists. 
+
+https://github.com/1N3/IntruderPayloads		#A collection of Burpsuite Intruder payloads, fuzz lists and file uploads
+https://github.com/rasta-mouse/Sherlock		#PowerShell script to quickly find missing Microsoft patches for local privilege escalation vulnerabilities.
+https://github.com/alias1/sparty		#Sparty - MS Sharepoint and Frontpage Auditing Tool [Unofficial] 
 
 https://github.com/jfroche/hudson-plugins		#hudson plugins fork for more python related validations 
 https://github.com/ntrippar/ARPwner
+
+https://github.com/huntergregal/mimipenguin		#A tool to dump the login password from the current linux user
 
 https://github.com/sporst/SWFREtools		#SWF file reverse engineering tools 
 https://github.com/bskari/sqlassie		#database firewall 
@@ -53,6 +168,7 @@ https://github.com/BlackHole1/NodeJs_Backdoor		#NodeJs后门程序
 https://github.com/BlackHole1/Fecm		#前端XSS防火墙及后台报警系统
 https://github.com/BlackHole1/autoFindXssAndCsrf		#自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件
 
+https://github.com/bartblaze/Disable-Intel-AMT		#Tool to disable Intel AMT on Windows 
 
 awesome-iot-hacks
 https://github.com/LordNoteworthy/al-khaser		#Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
@@ -214,7 +330,7 @@ https://github.com/netxfly/passive_scan  	#基于http代理的web漏洞扫描器
 https://github.com/ynvb/DIE 		#Dynamic IDA Enrichment 
 https://github.com/tanjiti/perl_tools 		#perl小工具 
 https://github.com/zt2/sqli-hunter 		#A simple sqlmap api wrapper and proxy server 
-https://github.com/AlessandroZ/LaZagne		#Credentials recovery project 
+https://github.com/AlessandroZ/LaZagne		#Credentials recovery project (dump pass) 
 https://github.com/fuzzing/bifuz		#Broadcast Intent FUZzing Framework for Android 
 https://github.com/0xmabu/NME 		#Network Mapping and Enumeration Framework 
 https://github.com/mozilla/mig  		# Distributed & real time digital forensics at the speed of the cloud
